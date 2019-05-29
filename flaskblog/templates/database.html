@@ -1,0 +1,100 @@
+{% extends "layout.html" %}
+{% block content %}
+  <div class="col-md-10">
+    <div class="content-section">
+      <article class="media content-section">
+        <img class="rounded-circle article-img" src="{{ url_for('static', filename='profile_pics/' + database.owner.image_file) }}">
+        <div class="media-body">
+          <div class="article-metadata">
+            <a class="mr-2" href="#">{{ database.owner.username }}</a>
+            <small class="text-muted">{{ database.data_posted.strftime('%Y-%m-%d') }}</small>
+            
+          </div>
+          <h2 class="article-title">{{ database.title }}
+          {% if database.owner == current_user %}
+                <button type="button" class="btn btn-danger btn-sm m-1 float-right" data-toggle="modal" data-target="#deleteModal">Delete</button>    {% endif %}</h2>
+
+          <div class="article-content">
+            <form method = "POST" action ="">
+                {{ form.hidden_tag() }}
+                <fieldset class = "form-group">
+                  <legend class="border-bottom mb-8"> Query Simulator</legend>
+                  <div class ='primary'>
+                    Here is your {{database.title}} tables and corresponding columns.
+                    You should enter the tables and columns correctly
+                    <div class="row">
+
+                      {% for table in container.keys()%}
+                      <div class= {{partition_string}}>
+                        <div class="list-group" id="list-tab" role="tablist">
+                          <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">{{table}}</a>
+                          {%for column in container[table]%}
+
+                          <a class="list-group-item list-group-item-action" id="list-profile-list" aria-controls="profile">{{column}}</a>
+                          {%endfor%}
+                        </div>
+                      </div>
+                      {%endfor%}
+                      
+                    </div>
+                  </div>
+                  <div class = "form-group">
+                    {{ form.userQuery.label(class="form-control-label") }}
+                    {% if form.userQuery.errors %}
+                      {{ form.userQuery(class = "form-control form-control-lg is-invalid")}}
+                      <div class ="invalid-feedback">
+                        {% for error in form.userQuery.errors %}
+                        <span> {{error}}</span>
+                        {% endfor %}
+                      </div>
+                    {% else %}
+                      {{ form.userQuery(class="form-control form-control-lg") }}
+                    {% endif%}
+                  </div>
+                  {% if form.systemQuery.data %}
+                  <div class = "form-group">
+                    {{ form.systemQuery.label(class="form-control-label") }}
+                    {% if form.systemQuery.errors %}
+                      {{ form.systemQuery(class = "form-control form-control-lg is-invalid")}}
+                      <div class ="invalid-feedback">
+                        {% for error in form.systemQuery.errors %}
+                        <span> {{error}}</span>
+                        {% endfor %}
+                      </div>
+                    {% else %}
+                      {{ form.systemQuery(class="form-control form-control-lg") }}
+                    {% endif%}
+                  </div>
+                  {% endif %}
+                </fieldset>
+                <div class ="form-group">
+                  {{form.submit(class="btn btn-outline-info")}}
+                </div>
+              </form>
+          </div>
+        </div>
+              
+        
+      </article>
+      <!-- Modal -->
+      <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="deleteModalLabel">Delete Database?</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <form action="{{ url_for('delete_database', database_id=database.id) }}" method="POST">
+                <input class="btn btn-danger" type="submit" value="Delete">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock content %}

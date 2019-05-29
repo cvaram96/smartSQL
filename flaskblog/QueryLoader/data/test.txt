@@ -1,0 +1,5 @@
+what is the name of the city which id is 1111
+what is the id of the city which name is 'jaffna'
+what is the score of the emp which id is 345
+which name of the city has score of 44
+

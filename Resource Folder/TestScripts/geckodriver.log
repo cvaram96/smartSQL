@@ -1,0 +1,1393 @@
+1553931983305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r5WbHuttDAvZ"
+
+(firefox:1970): Gtk-WARNING **: 13:16:23.360: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:1970): Gtk-WARNING **: 13:16:23.360: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553931983729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553931983730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553931983730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2158): Gtk-WARNING **: 13:16:24.536: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2158): Gtk-WARNING **: 13:16:24.536: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2182): Gtk-WARNING **: 13:16:24.765: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2182): Gtk-WARNING **: 13:16:24.765: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553931985485	Marionette	INFO	Listening on port 33891
+1553931985537	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2248): Gtk-WARNING **: 13:16:25.831: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2248): Gtk-WARNING **: 13:16:25.832: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553932041874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tMOrxCBQhWj6"
+
+(firefox:2330): Gtk-WARNING **: 13:17:21.927: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:2330): Gtk-WARNING **: 13:17:21.927: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553932042318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553932042319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553932042319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2455): Gtk-WARNING **: 13:17:23.376: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2455): Gtk-WARNING **: 13:17:23.376: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2478): Gtk-WARNING **: 13:17:23.627: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2478): Gtk-WARNING **: 13:17:23.627: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553932044308	Marionette	INFO	Listening on port 45313
+1553932044401	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2552): Gtk-WARNING **: 13:17:24.574: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2552): Gtk-WARNING **: 13:17:24.574: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2478): dconf-WARNING **: 13:17:25.874: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553932050008	Marionette	INFO	Stopped listening on port 45313
+[Parent 2330, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2330, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553932076958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CQBtRpxcvQsh"
+
+(firefox:2644): Gtk-WARNING **: 13:17:57.049: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:2644): Gtk-WARNING **: 13:17:57.049: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553932077443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553932077444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553932077444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2799): Gtk-WARNING **: 13:17:58.259: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2799): Gtk-WARNING **: 13:17:58.259: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2824): Gtk-WARNING **: 13:17:58.442: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2824): Gtk-WARNING **: 13:17:58.442: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553932079181	Marionette	INFO	Listening on port 38661
+1553932079322	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2896): Gtk-WARNING **: 13:17:59.357: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2896): Gtk-WARNING **: 13:17:59.358: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2824): dconf-WARNING **: 13:18:03.622: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553932087763	Marionette	INFO	Stopped listening on port 38661
+[Parent 2644, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 1970, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 1970, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553932105424	Marionette	INFO	Stopped listening on port 33891
+1553936102848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ew1LTpBEfMKF"
+
+(firefox:4531): Gtk-WARNING **: 14:25:03.031: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:4531): Gtk-WARNING **: 14:25:03.031: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936103561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936103561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936103561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4657): Gtk-WARNING **: 14:25:04.538: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4657): Gtk-WARNING **: 14:25:04.538: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4674): Gtk-WARNING **: 14:25:04.773: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4674): Gtk-WARNING **: 14:25:04.773: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936105592	Marionette	INFO	Listening on port 45783
+1553936105665	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4753): Gtk-WARNING **: 14:25:05.878: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4753): Gtk-WARNING **: 14:25:05.878: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+[Parent 4531, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 4531, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553936126219	Marionette	INFO	Stopped listening on port 45783
+1553936184763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p5Q4zGI7dBOJ"
+
+(firefox:4866): Gtk-WARNING **: 14:26:24.829: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:4866): Gtk-WARNING **: 14:26:24.829: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936185290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936185291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936185292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4990): Gtk-WARNING **: 14:26:26.357: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4990): Gtk-WARNING **: 14:26:26.357: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5009): Gtk-WARNING **: 14:26:26.653: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5009): Gtk-WARNING **: 14:26:26.653: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936187707	Marionette	INFO	Listening on port 34791
+1553936187783	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5081): Gtk-WARNING **: 14:26:28.000: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5081): Gtk-WARNING **: 14:26:28.000: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936192074	Marionette	INFO	Stopped listening on port 34791
+1553936207267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xdo5sIrE7a9d"
+
+(firefox:5123): Gtk-WARNING **: 14:26:47.331: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:5123): Gtk-WARNING **: 14:26:47.331: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936207806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936207806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936207806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5249): Gtk-WARNING **: 14:26:48.792: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5249): Gtk-WARNING **: 14:26:48.792: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5266): Gtk-WARNING **: 14:26:49.049: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5266): Gtk-WARNING **: 14:26:49.049: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936209963	Marionette	INFO	Listening on port 38045
+1553936209993	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5336): Gtk-WARNING **: 14:26:50.303: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5336): Gtk-WARNING **: 14:26:50.303: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1553936213753	Marionette	INFO	Stopped listening on port 38045
+1553936645164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sIz8HftnfKWc"
+
+(firefox:5587): Gtk-WARNING **: 14:34:05.224: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:5587): Gtk-WARNING **: 14:34:05.224: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936645619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936645620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936645620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5722): Gtk-WARNING **: 14:34:06.400: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5722): Gtk-WARNING **: 14:34:06.400: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5741): Gtk-WARNING **: 14:34:06.603: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5741): Gtk-WARNING **: 14:34:06.603: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936647439	Marionette	INFO	Listening on port 46621
+1553936647503	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5814): Gtk-WARNING **: 14:34:07.867: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5814): Gtk-WARNING **: 14:34:07.868: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936648040	Marionette	INFO	Stopped listening on port 46621
+[Parent 5587, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1553936748544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1f43XgRoaBaZ"
+
+(firefox:6440): Gtk-WARNING **: 14:35:48.616: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6440): Gtk-WARNING **: 14:35:48.616: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936749008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936749008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936749008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6574): Gtk-WARNING **: 14:35:49.775: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6574): Gtk-WARNING **: 14:35:49.775: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6591): Gtk-WARNING **: 14:35:49.983: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6591): Gtk-WARNING **: 14:35:49.983: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553936750678	Marionette	INFO	Listening on port 38173
+1553936750869	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6675): Gtk-WARNING **: 14:35:50.886: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6675): Gtk-WARNING **: 14:35:50.886: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6591): dconf-WARNING **: 14:35:55.532: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553936759677	Marionette	INFO	Stopped listening on port 38173
+[Parent 6440, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553938156948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JzNYgxNmoYvh"
+
+(firefox:8051): Gtk-WARNING **: 14:59:17.001: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8051): Gtk-WARNING **: 14:59:17.001: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553938157395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553938157395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553938157395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8177): Gtk-WARNING **: 14:59:18.294: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8177): Gtk-WARNING **: 14:59:18.294: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8194): Gtk-WARNING **: 14:59:18.522: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8194): Gtk-WARNING **: 14:59:18.522: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553938159278	Marionette	INFO	Listening on port 35921
+1553938159417	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8274): Gtk-WARNING **: 14:59:19.479: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8274): Gtk-WARNING **: 14:59:19.479: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553938170126	Marionette	INFO	Stopped listening on port 35921
+[Parent 8051, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553938383860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ypgsESDNutb2"
+
+(firefox:8499): Gtk-WARNING **: 15:03:03.929: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8499): Gtk-WARNING **: 15:03:03.929: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553938384381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553938384382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553938384382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8618): Gtk-WARNING **: 15:03:05.331: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8618): Gtk-WARNING **: 15:03:05.332: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8635): Gtk-WARNING **: 15:03:05.577: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8635): Gtk-WARNING **: 15:03:05.578: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553938386733	Marionette	INFO	Listening on port 33595
+1553938386778	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8734): Gtk-WARNING **: 15:03:07.041: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8734): Gtk-WARNING **: 15:03:07.041: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8635): dconf-WARNING **: 15:03:16.139: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553938396942	Marionette	INFO	Stopped listening on port 33595
+[Parent 8499, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553960956547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K4NwQ3WYoY5b"
+
+(firefox:4627): Gtk-WARNING **: 21:19:16.655: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:4627): Gtk-WARNING **: 21:19:16.655: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553960957131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553960957132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553960957132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4756): Gtk-WARNING **: 21:19:18.072: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4756): Gtk-WARNING **: 21:19:18.073: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4779): Gtk-WARNING **: 21:19:18.355: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4779): Gtk-WARNING **: 21:19:18.357: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553960959057	Marionette	INFO	Listening on port 45175
+1553960959103	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4849): Gtk-WARNING **: 21:19:19.490: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4849): Gtk-WARNING **: 21:19:19.490: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553960959583	Marionette	INFO	Stopped listening on port 45175
+[Parent 4627, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 4627, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+1553962556109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9LJ8NRWFIpqu"
+
+(firefox:6128): Gtk-WARNING **: 21:45:56.157: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6128): Gtk-WARNING **: 21:45:56.157: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962556506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553962556506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553962556506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6270): Gtk-WARNING **: 21:45:57.291: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6270): Gtk-WARNING **: 21:45:57.291: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6287): Gtk-WARNING **: 21:45:57.491: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6287): Gtk-WARNING **: 21:45:57.495: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962558317	Marionette	INFO	Listening on port 39607
+1553962558427	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6357): Gtk-WARNING **: 21:45:58.576: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6357): Gtk-WARNING **: 21:45:58.577: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962561231	Marionette	INFO	Stopped listening on port 39607
+[Parent 6128, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6128, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553962641739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.amCAkPGCTJGm"
+
+(firefox:6513): Gtk-WARNING **: 21:47:21.803: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6513): Gtk-WARNING **: 21:47:21.803: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962642187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553962642188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553962642188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6638): Gtk-WARNING **: 21:47:22.911: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6638): Gtk-WARNING **: 21:47:22.911: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6655): Gtk-WARNING **: 21:47:23.093: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6655): Gtk-WARNING **: 21:47:23.093: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962643742	Marionette	INFO	Listening on port 45027
+1553962643761	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6728): Gtk-WARNING **: 21:47:24.030: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6728): Gtk-WARNING **: 21:47:24.030: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962645281	Marionette	INFO	Stopped listening on port 45027
+[Parent 6513, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6513, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553962739656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.93Fm0MSi33O4"
+
+(firefox:6958): Gtk-WARNING **: 21:48:59.705: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6958): Gtk-WARNING **: 21:48:59.706: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962740057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553962740057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553962740057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7106): Gtk-WARNING **: 21:49:00.831: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7106): Gtk-WARNING **: 21:49:00.831: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7125): Gtk-WARNING **: 21:49:01.014: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7125): Gtk-WARNING **: 21:49:01.015: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962741634	Marionette	INFO	Listening on port 43213
+1553962741690	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7194): Gtk-WARNING **: 21:49:01.960: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7194): Gtk-WARNING **: 21:49:01.960: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962744827	Marionette	INFO	Stopped listening on port 43213
+[Parent 6958, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553962796710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qh7t58mrSwno"
+
+(firefox:7337): Gtk-WARNING **: 21:49:56.765: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:7337): Gtk-WARNING **: 21:49:56.765: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962797121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553962797121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553962797121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7489): Gtk-WARNING **: 21:49:57.859: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7489): Gtk-WARNING **: 21:49:57.860: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7508): Gtk-WARNING **: 21:49:58.038: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7508): Gtk-WARNING **: 21:49:58.039: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962798850	Marionette	INFO	Listening on port 35633
+1553962798921	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7582): Gtk-WARNING **: 21:49:59.050: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7582): Gtk-WARNING **: 21:49:59.050: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962801173	Marionette	INFO	Stopped listening on port 35633
+[Parent 7337, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7337, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553962879137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YtVKCM9EES7U"
+
+(firefox:7734): Gtk-WARNING **: 21:51:19.206: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:7734): Gtk-WARNING **: 21:51:19.206: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962879690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553962879690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553962879691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7869): Gtk-WARNING **: 21:51:20.679: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7869): Gtk-WARNING **: 21:51:20.679: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7886): Gtk-WARNING **: 21:51:20.908: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7886): Gtk-WARNING **: 21:51:20.909: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962881834	Marionette	INFO	Listening on port 46791
+1553962881916	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7958): Gtk-WARNING **: 21:51:22.347: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7958): Gtk-WARNING **: 21:51:22.347: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553962886924	Marionette	INFO	Stopped listening on port 46791
+[Parent 7734, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7734, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963008077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sRNAFWcUezjc"
+
+(firefox:8198): Gtk-WARNING **: 21:53:28.127: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8198): Gtk-WARNING **: 21:53:28.127: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963008482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963008482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963008482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8337): Gtk-WARNING **: 21:53:29.248: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8337): Gtk-WARNING **: 21:53:29.248: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8356): Gtk-WARNING **: 21:53:29.434: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8356): Gtk-WARNING **: 21:53:29.434: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963010123	Marionette	INFO	Listening on port 43897
+1553963010200	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8425): Gtk-WARNING **: 21:53:30.434: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8425): Gtk-WARNING **: 21:53:30.436: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963012819	Marionette	INFO	Stopped listening on port 43897
+[Parent 8198, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8198, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963553183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bor0ZXWcjXRg"
+
+(firefox:8987): Gtk-WARNING **: 22:02:33.236: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8987): Gtk-WARNING **: 22:02:33.236: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963553593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963553593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963553594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 22:02:34.307: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 22:02:34.307: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9147): Gtk-WARNING **: 22:02:34.502: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9147): Gtk-WARNING **: 22:02:34.502: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963555071	Marionette	INFO	Listening on port 44969
+1553963555113	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9241): Gtk-WARNING **: 22:02:35.472: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9241): Gtk-WARNING **: 22:02:35.473: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963559195	Marionette	INFO	Stopped listening on port 44969
+[Parent 8987, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8987, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963712040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4pf3AuQldvAD"
+
+(firefox:9407): Gtk-WARNING **: 22:05:12.090: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:9407): Gtk-WARNING **: 22:05:12.090: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963712435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963712436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963712436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9539): Gtk-WARNING **: 22:05:13.261: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9539): Gtk-WARNING **: 22:05:13.262: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9560): Gtk-WARNING **: 22:05:13.509: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9560): Gtk-WARNING **: 22:05:13.509: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963714263	Marionette	INFO	Listening on port 36129
+1553963714382	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9629): Gtk-WARNING **: 22:05:14.426: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9629): Gtk-WARNING **: 22:05:14.426: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963718394	Marionette	INFO	Stopped listening on port 36129
+[Parent 9407, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963763477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rpUSttZWiabL"
+
+(firefox:9755): Gtk-WARNING **: 22:06:03.532: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:9755): Gtk-WARNING **: 22:06:03.532: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963763878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963763878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963763878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9893): Gtk-WARNING **: 22:06:04.692: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9893): Gtk-WARNING **: 22:06:04.693: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9910): Gtk-WARNING **: 22:06:04.875: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9910): Gtk-WARNING **: 22:06:04.875: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963765544	Marionette	INFO	Listening on port 46327
+1553963765587	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9989): Gtk-WARNING **: 22:06:05.808: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9989): Gtk-WARNING **: 22:06:05.808: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963767756	Marionette	INFO	Stopped listening on port 46327
+[Parent 9755, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963821481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fbQwL1Qs6uSC"
+
+(firefox:10097): Gtk-WARNING **: 22:07:01.530: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:10097): Gtk-WARNING **: 22:07:01.530: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963821871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963821871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963821871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10235): Gtk-WARNING **: 22:07:02.616: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10235): Gtk-WARNING **: 22:07:02.616: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10254): Gtk-WARNING **: 22:07:02.797: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10254): Gtk-WARNING **: 22:07:02.797: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963823417	Marionette	INFO	Listening on port 45101
+1553963823500	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10326): Gtk-WARNING **: 22:07:03.758: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10326): Gtk-WARNING **: 22:07:03.758: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963827361	Marionette	INFO	Stopped listening on port 45101
+[Parent 10097, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10097, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963852715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tnostvNDAhl9"
+
+(firefox:10401): Gtk-WARNING **: 22:07:32.765: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:10401): Gtk-WARNING **: 22:07:32.765: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963853110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963853110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963853110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10551): Gtk-WARNING **: 22:07:33.913: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10551): Gtk-WARNING **: 22:07:33.913: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10568): Gtk-WARNING **: 22:07:34.108: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10568): Gtk-WARNING **: 22:07:34.108: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963854798	Marionette	INFO	Listening on port 38771
+1553963854836	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10648): Gtk-WARNING **: 22:07:35.151: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10648): Gtk-WARNING **: 22:07:35.151: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963857759	Marionette	INFO	Stopped listening on port 38771
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 10401, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553963962218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FFDIsQKgmdKo"
+
+(firefox:10803): Gtk-WARNING **: 22:09:22.281: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:10803): Gtk-WARNING **: 22:09:22.281: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963962635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553963962635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553963962635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10938): Gtk-WARNING **: 22:09:23.345: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10938): Gtk-WARNING **: 22:09:23.346: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10955): Gtk-WARNING **: 22:09:23.528: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10955): Gtk-WARNING **: 22:09:23.528: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963964247	Marionette	INFO	Listening on port 34101
+1553963964387	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11034): Gtk-WARNING **: 22:09:24.412: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11034): Gtk-WARNING **: 22:09:24.412: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553963967267	Marionette	INFO	Stopped listening on port 34101
+[Parent 10803, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10803, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553971904447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2CXPFObDLchv"
+
+(firefox:19473): Gtk-WARNING **: 00:21:44.506: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:19473): Gtk-WARNING **: 00:21:44.507: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553971904879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553971904880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553971904880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:19612): Gtk-WARNING **: 00:21:45.699: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19612): Gtk-WARNING **: 00:21:45.699: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19636): Gtk-WARNING **: 00:21:45.938: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19636): Gtk-WARNING **: 00:21:45.941: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553971906689	Marionette	INFO	Listening on port 35337
+1553971906785	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19711): Gtk-WARNING **: 00:21:47.047: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19711): Gtk-WARNING **: 00:21:47.047: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19636): dconf-WARNING **: 00:21:50.627: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553971913968	Marionette	INFO	Stopped listening on port 35337
+[Parent 19473, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553972096997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h33plu7CGusA"
+
+(firefox:19850): Gtk-WARNING **: 00:24:57.058: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:19850): Gtk-WARNING **: 00:24:57.058: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972097435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553972097436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553972097436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:19984): Gtk-WARNING **: 00:24:58.202: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19984): Gtk-WARNING **: 00:24:58.203: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20001): Gtk-WARNING **: 00:24:58.381: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20001): Gtk-WARNING **: 00:24:58.381: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972099115	Marionette	INFO	Listening on port 45341
+1553972099225	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20080): Gtk-WARNING **: 00:24:59.453: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20080): Gtk-WARNING **: 00:24:59.453: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20001): dconf-WARNING **: 00:25:03.472: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553972106839	Marionette	INFO	Stopped listening on port 45341
+[Parent 19850, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553972215205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5fGGeV9MOEEd"
+
+(firefox:20244): Gtk-WARNING **: 00:26:55.256: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:20244): Gtk-WARNING **: 00:26:55.256: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972215614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553972215614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553972215614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:20389): Gtk-WARNING **: 00:26:56.300: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20389): Gtk-WARNING **: 00:26:56.300: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20406): Gtk-WARNING **: 00:26:56.498: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20406): Gtk-WARNING **: 00:26:56.498: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972217150	Marionette	INFO	Listening on port 34277
+1553972217212	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20483): Gtk-WARNING **: 00:26:57.387: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20483): Gtk-WARNING **: 00:26:57.387: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20406): dconf-WARNING **: 00:27:04.334: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553972227623	Marionette	INFO	Stopped listening on port 34277
+[Parent 20244, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553972303253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.28ESoG5vRKmL"
+
+(firefox:20682): Gtk-WARNING **: 00:28:23.305: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:20682): Gtk-WARNING **: 00:28:23.306: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972303701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553972303701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553972303701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:20820): Gtk-WARNING **: 00:28:24.679: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20820): Gtk-WARNING **: 00:28:24.679: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20837): Gtk-WARNING **: 00:28:24.860: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20837): Gtk-WARNING **: 00:28:24.860: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1553972305573	Marionette	INFO	Listening on port 45811
+1553972305668	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20905): Gtk-WARNING **: 00:28:25.923: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20905): Gtk-WARNING **: 00:28:25.924: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20837): dconf-WARNING **: 00:28:30.344: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553972311612	Marionette	INFO	Stopped listening on port 45811
+[Parent 20682, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20682, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559187996799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rJcUDMr1UQWs"
+
+(firefox:29120): Gtk-WARNING **: 09:16:37.002: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:29120): Gtk-WARNING **: 09:16:37.002: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559187997605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559187997606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559187997606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:29254): Gtk-WARNING **: 09:16:38.607: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29254): Gtk-WARNING **: 09:16:38.607: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29282): Gtk-WARNING **: 09:16:38.917: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29282): Gtk-WARNING **: 09:16:38.917: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559187999850	Marionette	INFO	Listening on port 46359
+1559187999920	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29345): Gtk-WARNING **: 09:16:40.046: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29345): Gtk-WARNING **: 09:16:40.046: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29282): dconf-WARNING **: 09:16:49.465: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559188010957	Marionette	INFO	Stopped listening on port 46359
+[Parent 29120, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559188307145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r3pUnUaYgG8w"
+
+(firefox:29529): Gtk-WARNING **: 09:21:47.262: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:29529): Gtk-WARNING **: 09:21:47.262: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188307676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559188307676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559188307676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:29671): Gtk-WARNING **: 09:21:48.367: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29671): Gtk-WARNING **: 09:21:48.367: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29695): Gtk-WARNING **: 09:21:48.543: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29695): Gtk-WARNING **: 09:21:48.543: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188309061	Marionette	INFO	Listening on port 42249
+1559188309153	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29774): Gtk-WARNING **: 09:21:49.461: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:29774): Gtk-WARNING **: 09:21:49.461: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188326048	Marionette	INFO	Stopped listening on port 42249
+[Parent 29529, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559188416971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jyIcL5GpYrpz"
+
+(firefox:29881): Gtk-WARNING **: 09:23:37.014: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:29881): Gtk-WARNING **: 09:23:37.014: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188417322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559188417323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559188417323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:30008): Gtk-WARNING **: 09:23:37.902: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30008): Gtk-WARNING **: 09:23:37.902: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30026): Gtk-WARNING **: 09:23:38.053: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30026): Gtk-WARNING **: 09:23:38.053: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188418612	Marionette	INFO	Listening on port 36589
+1559188418679	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30101): Gtk-WARNING **: 09:23:38.974: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30101): Gtk-WARNING **: 09:23:38.974: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30026): dconf-WARNING **: 09:23:45.962: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559188428959	Marionette	INFO	Stopped listening on port 36589
+[Parent 29881, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559188445159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jjD2e87CQe4"
+
+(firefox:30188): Gtk-WARNING **: 09:24:05.202: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:30188): Gtk-WARNING **: 09:24:05.202: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188445501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559188445502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559188445502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:30322): Gtk-WARNING **: 09:24:06.135: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30322): Gtk-WARNING **: 09:24:06.135: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30341): Gtk-WARNING **: 09:24:06.322: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30341): Gtk-WARNING **: 09:24:06.322: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188446889	Marionette	INFO	Listening on port 37261
+1559188446964	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30416): Gtk-WARNING **: 09:24:07.214: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30416): Gtk-WARNING **: 09:24:07.214: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30341): dconf-WARNING **: 09:24:13.276: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559188456268	Marionette	INFO	Stopped listening on port 37261
+[Parent 30188, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 30188, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559188978133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z3hiPOaKojXg"
+
+(firefox:30664): Gtk-WARNING **: 09:32:58.174: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:30664): Gtk-WARNING **: 09:32:58.174: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188978485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559188978486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559188978486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:30797): Gtk-WARNING **: 09:32:59.176: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30797): Gtk-WARNING **: 09:32:59.176: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30818): Gtk-WARNING **: 09:32:59.352: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30818): Gtk-WARNING **: 09:32:59.352: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559188979925	Marionette	INFO	Listening on port 37821
+1559188979942	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30892): Gtk-WARNING **: 09:33:00.225: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30892): Gtk-WARNING **: 09:33:00.225: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:30818): dconf-WARNING **: 09:33:11.282: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559188994279	Marionette	INFO	Stopped listening on port 37821
+[Parent 30664, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 30664, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189033751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EW1V2eNbMzZd"
+
+(firefox:30995): Gtk-WARNING **: 09:33:53.792: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:30995): Gtk-WARNING **: 09:33:53.792: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189034085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189034086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189034086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:31116): Gtk-WARNING **: 09:33:54.686: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31116): Gtk-WARNING **: 09:33:54.686: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31134): Gtk-WARNING **: 09:33:54.846: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31134): Gtk-WARNING **: 09:33:54.846: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189035476	Marionette	INFO	Listening on port 46749
+1559189035556	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31213): Gtk-WARNING **: 09:33:55.751: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31213): Gtk-WARNING **: 09:33:55.751: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31134): dconf-WARNING **: 09:34:01.599: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189044492	Marionette	INFO	Stopped listening on port 46749
+[Parent 30995, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189158569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KixKBPIbZnfr"
+
+(firefox:31341): Gtk-WARNING **: 09:35:58.612: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:31341): Gtk-WARNING **: 09:35:58.612: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189158911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189158912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189158912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:31463): Gtk-WARNING **: 09:35:59.494: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31463): Gtk-WARNING **: 09:35:59.494: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31480): Gtk-WARNING **: 09:35:59.671: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31480): Gtk-WARNING **: 09:35:59.671: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189160300	Marionette	INFO	Listening on port 37507
+1559189160379	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31560): Gtk-WARNING **: 09:36:00.571: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31560): Gtk-WARNING **: 09:36:00.571: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31480): dconf-WARNING **: 09:36:12.083: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189172998	Marionette	INFO	Stopped listening on port 37507
+[Parent 31341, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31341, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189229252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dAIT8dZ4J4vM"
+
+(firefox:31657): Gtk-WARNING **: 09:37:09.304: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:31657): Gtk-WARNING **: 09:37:09.304: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189229599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189229599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189229599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:31796): Gtk-WARNING **: 09:37:10.186: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31796): Gtk-WARNING **: 09:37:10.186: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31815): Gtk-WARNING **: 09:37:10.355: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31815): Gtk-WARNING **: 09:37:10.355: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189230899	Marionette	INFO	Listening on port 39123
+1559189230957	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31892): Gtk-WARNING **: 09:37:11.261: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31892): Gtk-WARNING **: 09:37:11.261: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:31815): dconf-WARNING **: 09:37:16.187: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189237055	Marionette	INFO	Stopped listening on port 39123
+[Parent 31657, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31657, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189446758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VUmHgDbiHLtc"
+
+(firefox:32007): Gtk-WARNING **: 09:40:46.804: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:32007): Gtk-WARNING **: 09:40:46.804: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189447100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189447100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189447100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:32148): Gtk-WARNING **: 09:40:47.693: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32148): Gtk-WARNING **: 09:40:47.693: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32165): Gtk-WARNING **: 09:40:47.864: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32165): Gtk-WARNING **: 09:40:47.864: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189448411	Marionette	INFO	Listening on port 45589
+1559189448463	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 09:40:48.749: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 09:40:48.749: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32165): dconf-WARNING **: 09:40:58.718: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189459612	Marionette	INFO	Stopped listening on port 45589
+[Parent 32007, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32007, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189501776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WwhouY42oWRP"
+
+(firefox:32341): Gtk-WARNING **: 09:41:41.817: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:32341): Gtk-WARNING **: 09:41:41.818: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189502110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189502110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189502110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:32477): Gtk-WARNING **: 09:41:42.710: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32477): Gtk-WARNING **: 09:41:42.710: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32496): Gtk-WARNING **: 09:41:42.878: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32496): Gtk-WARNING **: 09:41:42.878: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189503414	Marionette	INFO	Listening on port 41867
+1559189503483	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32566): Gtk-WARNING **: 09:41:43.770: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32566): Gtk-WARNING **: 09:41:43.770: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:32496): dconf-WARNING **: 09:41:47.998: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189508891	Marionette	INFO	Stopped listening on port 41867
+[Parent 32341, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559189553751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2lGgRII2V9YG"
+
+(firefox:32657): Gtk-WARNING **: 09:42:33.798: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:32657): Gtk-WARNING **: 09:42:33.798: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189554088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559189554089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559189554089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:338): Gtk-WARNING **: 09:42:34.712: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:338): Gtk-WARNING **: 09:42:34.712: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:365): Gtk-WARNING **: 09:42:34.892: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:365): Gtk-WARNING **: 09:42:34.892: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559189555446	Marionette	INFO	Listening on port 35885
+1559189555466	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:462): Gtk-WARNING **: 09:42:35.770: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:462): Gtk-WARNING **: 09:42:35.770: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:365): dconf-WARNING **: 09:42:40.766: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559189563798	Marionette	INFO	Stopped listening on port 35885
+[Parent 32657, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32657, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559190366063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zGOLo3m0fuv5"
+
+(firefox:751): Gtk-WARNING **: 09:56:06.109: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:751): Gtk-WARNING **: 09:56:06.109: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190366409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559190366409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559190366409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:878): Gtk-WARNING **: 09:56:07.020: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:878): Gtk-WARNING **: 09:56:07.020: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:902): Gtk-WARNING **: 09:56:07.191: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:902): Gtk-WARNING **: 09:56:07.191: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190367739	Marionette	INFO	Listening on port 40931
+1559190367773	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:974): Gtk-WARNING **: 09:56:08.111: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:974): Gtk-WARNING **: 09:56:08.111: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:902): dconf-WARNING **: 09:56:20.095: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559190383476	Marionette	INFO	Stopped listening on port 40931
+[Parent 751, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559190808548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pImJWxtbMANi"
+
+(firefox:1228): Gtk-WARNING **: 10:03:28.593: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:1228): Gtk-WARNING **: 10:03:28.593: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190808882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559190808883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559190808883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:1393): Gtk-WARNING **: 10:03:29.472: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:1393): Gtk-WARNING **: 10:03:29.472: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:1415): Gtk-WARNING **: 10:03:29.651: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:1415): Gtk-WARNING **: 10:03:29.651: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190810238	Marionette	INFO	Listening on port 45273
+1559190810264	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1524): Gtk-WARNING **: 10:03:30.571: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:1524): Gtk-WARNING **: 10:03:30.571: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:1415): dconf-WARNING **: 10:03:41.688: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559190829111	Marionette	INFO	Stopped listening on port 45273
+[Parent 1228, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559190964681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m6nmVv0Fx9cK"
+
+(firefox:1952): Gtk-WARNING **: 10:06:04.724: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:1952): Gtk-WARNING **: 10:06:04.724: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190965038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559190965039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559190965039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2088): Gtk-WARNING **: 10:06:05.667: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2088): Gtk-WARNING **: 10:06:05.667: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2105): Gtk-WARNING **: 10:06:05.824: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2105): Gtk-WARNING **: 10:06:05.824: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559190966375	Marionette	INFO	Listening on port 43167
+1559190966404	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2185): Gtk-WARNING **: 10:06:06.740: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2185): Gtk-WARNING **: 10:06:06.740: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2105): dconf-WARNING **: 10:06:13.686: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559190981065	Marionette	INFO	Stopped listening on port 43167
+[Parent 1952, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 1952, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559191036324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dUfIuNi0CBan"
+
+(firefox:2289): Gtk-WARNING **: 10:07:16.371: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:2289): Gtk-WARNING **: 10:07:16.371: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191036682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191036682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191036682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2422): Gtk-WARNING **: 10:07:17.292: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2422): Gtk-WARNING **: 10:07:17.292: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2440): Gtk-WARNING **: 10:07:17.463: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2440): Gtk-WARNING **: 10:07:17.464: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191038000	Marionette	INFO	Listening on port 32859
+1559191038031	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2517): Gtk-WARNING **: 10:07:18.419: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2517): Gtk-WARNING **: 10:07:18.420: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2440): dconf-WARNING **: 10:07:27.207: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191054588	Marionette	INFO	Stopped listening on port 32859
+[Parent 2289, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2289, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559191112266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lqHrYmhLGqqc"
+
+(firefox:2655): Gtk-WARNING **: 10:08:32.314: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:2655): Gtk-WARNING **: 10:08:32.314: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191112608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191112609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191112609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2784): Gtk-WARNING **: 10:08:33.237: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2784): Gtk-WARNING **: 10:08:33.238: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2803): Gtk-WARNING **: 10:08:33.402: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2803): Gtk-WARNING **: 10:08:33.402: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191113966	Marionette	INFO	Listening on port 38837
+1559191113975	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2885): Gtk-WARNING **: 10:08:34.312: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2885): Gtk-WARNING **: 10:08:34.312: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:2803): dconf-WARNING **: 10:08:43.126: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191134517	Marionette	INFO	Stopped listening on port 38837
+1559191286863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7ESeo9koVPD6"
+
+(firefox:3009): Gtk-WARNING **: 10:11:26.906: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:3009): Gtk-WARNING **: 10:11:26.907: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191287213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191287214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191287214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:3145): Gtk-WARNING **: 10:11:27.820: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3145): Gtk-WARNING **: 10:11:27.820: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3164): Gtk-WARNING **: 10:11:27.980: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3164): Gtk-WARNING **: 10:11:27.980: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191288476	Marionette	INFO	Listening on port 44967
+1559191288577	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3244): Gtk-WARNING **: 10:11:28.897: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3244): Gtk-WARNING **: 10:11:28.897: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3164): dconf-WARNING **: 10:11:34.825: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191295712	Marionette	INFO	Stopped listening on port 44967
+[Parent 3009, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3009, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559191325625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xjqJtVnZZT5C"
+
+(firefox:3337): Gtk-WARNING **: 10:12:05.674: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:3337): Gtk-WARNING **: 10:12:05.674: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191325977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191325977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191325977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:3491): Gtk-WARNING **: 10:12:06.563: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3491): Gtk-WARNING **: 10:12:06.563: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3508): Gtk-WARNING **: 10:12:06.757: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3508): Gtk-WARNING **: 10:12:06.757: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191327309	Marionette	INFO	Listening on port 36723
+1559191327344	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3581): Gtk-WARNING **: 10:12:07.648: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3581): Gtk-WARNING **: 10:12:07.648: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3508): dconf-WARNING **: 10:12:16.811: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191350254	Marionette	INFO	Stopped listening on port 36723
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3337, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3337, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559191575061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8uCtybqyPMDB"
+
+(firefox:3712): Gtk-WARNING **: 10:16:15.105: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:3712): Gtk-WARNING **: 10:16:15.106: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191575420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191575421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191575421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:3842): Gtk-WARNING **: 10:16:16.045: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3842): Gtk-WARNING **: 10:16:16.045: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3859): Gtk-WARNING **: 10:16:16.196: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3859): Gtk-WARNING **: 10:16:16.196: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191576751	Marionette	INFO	Listening on port 41725
+1559191576778	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3939): Gtk-WARNING **: 10:16:17.122: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3939): Gtk-WARNING **: 10:16:17.122: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:3859): dconf-WARNING **: 10:16:28.056: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191601467	Marionette	INFO	Stopped listening on port 41725
+[Parent 3712, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3712, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559191645435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5sU0FwdrcV2U"
+
+(firefox:4046): Gtk-WARNING **: 10:17:25.484: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:4046): Gtk-WARNING **: 10:17:25.484: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191645775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559191645776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559191645776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4185): Gtk-WARNING **: 10:17:26.400: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4185): Gtk-WARNING **: 10:17:26.400: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4204): Gtk-WARNING **: 10:17:26.572: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4204): Gtk-WARNING **: 10:17:26.572: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559191647099	Marionette	INFO	Listening on port 36719
+1559191647142	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4282): Gtk-WARNING **: 10:17:27.478: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4282): Gtk-WARNING **: 10:17:27.478: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:4204): dconf-WARNING **: 10:17:33.367: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559191666723	Marionette	INFO	Stopped listening on port 36719
+1559194437957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fYgMvsfcLJDS"
+
+(firefox:5163): Gtk-WARNING **: 11:03:58.019: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:5163): Gtk-WARNING **: 11:03:58.019: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559194438392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559194438392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559194438392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5322): Gtk-WARNING **: 11:03:59.141: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5322): Gtk-WARNING **: 11:03:59.141: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5341): Gtk-WARNING **: 11:03:59.378: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5341): Gtk-WARNING **: 11:03:59.378: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559194440150	Marionette	INFO	Listening on port 35489
+1559194440178	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5413): Gtk-WARNING **: 11:04:00.533: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5413): Gtk-WARNING **: 11:04:00.534: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5341): dconf-WARNING **: 11:04:11.960: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559194465849	Marionette	INFO	Stopped listening on port 35489
+[Parent 5163, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559195176300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lsF6qlLQfnlI"
+
+(firefox:6218): Gtk-WARNING **: 11:16:16.354: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6218): Gtk-WARNING **: 11:16:16.354: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195176759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559195176760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559195176760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6348): Gtk-WARNING **: 11:16:17.567: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6348): Gtk-WARNING **: 11:16:17.567: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6365): Gtk-WARNING **: 11:16:17.804: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6365): Gtk-WARNING **: 11:16:17.804: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195178530	Marionette	INFO	Listening on port 33795
+1559195178608	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6447): Gtk-WARNING **: 11:16:18.785: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6447): Gtk-WARNING **: 11:16:18.785: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:6365): dconf-WARNING **: 11:16:29.304: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559195203524	Marionette	INFO	Stopped listening on port 33795
+[Parent 6218, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559195804342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TwDaKWwYMnqz"
+
+(firefox:6919): Gtk-WARNING **: 11:26:44.413: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:6919): Gtk-WARNING **: 11:26:44.413: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195804924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559195804924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559195804925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7047): Gtk-WARNING **: 11:26:46.282: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7047): Gtk-WARNING **: 11:26:46.282: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7066): Gtk-WARNING **: 11:26:46.617: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7066): Gtk-WARNING **: 11:26:46.617: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195808220	Marionette	INFO	Listening on port 45023
+1559195808265	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7150): Gtk-WARNING **: 11:26:48.672: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7150): Gtk-WARNING **: 11:26:48.672: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7066): dconf-WARNING **: 11:26:51.771: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559195826874	Marionette	INFO	Stopped listening on port 45023
+[Parent 6919, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6919, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559195869393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IHOUvD8daxtR"
+
+(firefox:7254): Gtk-WARNING **: 11:27:49.470: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:7254): Gtk-WARNING **: 11:27:49.470: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195869965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559195869966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559195869966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7373): Gtk-WARNING **: 11:27:51.040: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7373): Gtk-WARNING **: 11:27:51.040: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7392): Gtk-WARNING **: 11:27:51.512: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7392): Gtk-WARNING **: 11:27:51.512: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559195872859	Marionette	INFO	Listening on port 38171
+1559195872910	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7484): Gtk-WARNING **: 11:27:53.304: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7484): Gtk-WARNING **: 11:27:53.304: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7392): dconf-WARNING **: 11:27:56.509: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559195891990	Marionette	INFO	Stopped listening on port 38171
+[Parent 7254, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559196211452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KuBdYBUqn2PG"
+
+(firefox:7780): Gtk-WARNING **: 11:33:31.522: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:7780): Gtk-WARNING **: 11:33:31.522: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196211965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559196211966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559196211966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7921): Gtk-WARNING **: 11:33:32.920: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7921): Gtk-WARNING **: 11:33:32.920: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7938): Gtk-WARNING **: 11:33:33.160: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7938): Gtk-WARNING **: 11:33:33.160: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196214172	Marionette	INFO	Listening on port 38757
+1559196214319	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8020): Gtk-WARNING **: 11:33:34.342: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8020): Gtk-WARNING **: 11:33:34.342: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:7938): dconf-WARNING **: 11:33:44.374: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559196239607	Marionette	INFO	Stopped listening on port 38757
+1559196285478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XPOumyMhclo7"
+
+(firefox:8153): Gtk-WARNING **: 11:34:45.540: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8153): Gtk-WARNING **: 11:34:45.540: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196285978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559196285978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559196285978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8276): Gtk-WARNING **: 11:34:46.933: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8276): Gtk-WARNING **: 11:34:46.933: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8293): Gtk-WARNING **: 11:34:47.245: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8293): Gtk-WARNING **: 11:34:47.245: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196288150	Marionette	INFO	Listening on port 39855
+1559196288217	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8368): Gtk-WARNING **: 11:34:48.502: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8368): Gtk-WARNING **: 11:34:48.502: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:8293): dconf-WARNING **: 11:34:55.384: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559196314225	Marionette	INFO	Stopped listening on port 39855
+[Parent 8153, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1559196382039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pDVj2rFkBdoD"
+
+(firefox:8872): Gtk-WARNING **: 11:36:22.104: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(firefox:8872): Gtk-WARNING **: 11:36:22.104: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196382696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559196382696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559196382697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9002): Gtk-WARNING **: 11:36:23.832: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9002): Gtk-WARNING **: 11:36:23.833: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9025): Gtk-WARNING **: 11:36:24.107: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9025): Gtk-WARNING **: 11:36:24.107: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+1559196385043	Marionette	INFO	Listening on port 45141
+1559196385060	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9084): Gtk-WARNING **: 11:36:25.515: Theme parsing error: gtk.css:11546:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9084): Gtk-WARNING **: 11:36:25.515: Theme parsing error: gtk.css:11652:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9025): dconf-WARNING **: 11:36:34.206: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1559196415726	Marionette	INFO	Stopped listening on port 45141
+[Parent 8872, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357

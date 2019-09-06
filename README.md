@@ -1,3 +1,4 @@
+
 # smartSQL
 web application which is converting natural language into sql query using ln2sql framework
 follow the instructions
@@ -21,4 +22,7 @@ open your browser go to localhost:5000 to see this web application
     •  In the schema page, user can type the natural language query and submit to the system. System will send this to the ln2sql. Ln2sql takes the natural language query and parses it  using database schema. The result which has been produced by ln2sql will be displayed in the same window. 
 
     • User can rate the product and it will be displayed in homepage and all users using review page
+	
+	
+	![alt text](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/Account%20page.png)
 			

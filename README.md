@@ -23,4 +23,4 @@ open your browser go to localhost:5000 to see this web application
     • User can rate the product and it will be displayed in homepage and all users using review page
 			
 The images of the user interface
-![Sign Up page of the smartSQL(https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/Signup%20page.png)
+![Sign Up page of the smartSQL](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/Signup%20page.png)

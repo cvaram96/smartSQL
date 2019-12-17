@@ -24,3 +24,13 @@ open your browser go to localhost:5000 to see this web application
 			
 The images of the user interface
 ![Sign Up page of the smartSQL](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/Signup%20page.png)
+
+![Login Up page of the smartSQL](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/LoginPage.png)
+
+![Home page of the smartSQL](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/HomePage.png)
+
+![New schema added to the page](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/upload%20new%20schema%20page.png)
+![Added Database query holder page](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/database%20page.png)
+
+
+![Query added database page](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/retrive%20query%20page.png)

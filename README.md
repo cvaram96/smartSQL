@@ -1,5 +1,14 @@
 # smartSQL
-web application which is converting natural language into sql query using ln2sql framework
+A new solution which is named as smartSQL has been introduced here for converting natural language query into mySQL query. Most of the developers as well as end users have benefits from this solution. 
+The solution is a web application which has basic facilities and some advance
+facilities. SmartSQl takes the mysql database schema which is preferred by user and allows to convert user’s natural language query into mysql query based on preferred sql schema. SmartSQL gives many facilities such as creating users, storing schemas, default user settings as well as other basic web application features. More than that, user can view the database schema as table and columns.
+Entire smartSQL has been developed in python environment. User can able to build Simple queries as well some complex queries using smartSQL. SmartSQL web application has been developed using Flask framework and basic python class concepts. GUI of the system is very simple and attractive.
+The development of the project has been carried out under the Rational Unified Process
+methodology with several iterations. The architecture of the application follows a 3-tier architecture which consists of a Presentation layer, a control layer and a database layer.
+Software engineering good practices have been adopted in the development process for scheduling, requirement specification, coding and testing. python had been used as languages for coding. Testing had been carried out with pytest and sellenium testing tool.
+The main constraint of smartSQL is, users should have correct tables name and columns name in their natural language query.
+
+
 follow the instructions
 from linux versions
 open the terminal
@@ -21,7 +30,8 @@ open your browser go to localhost:5000 to see this web application
     •  In the schema page, user can type the natural language query and submit to the system. System will send this to the ln2sql. Ln2sql takes the natural language query and parses it  using database schema. The result which has been produced by ln2sql will be displayed in the same window. 
 
     • User can rate the product and it will be displayed in homepage and all users using review page
-			
+
+
 The images of the user interface
 ![Sign Up page of the smartSQL](https://github.com/cvaram96/smartSQL/blob/master/Resource%20Folder/UserInterfaces/Signup%20page.png)
 
